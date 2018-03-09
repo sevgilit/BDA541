@@ -1,0 +1,13 @@
+VIDEO RELATED QUESTIONS
+
+1) In videos, we saw how the problem was solved when the uncertain inputs distribution is given. 
+But we generally may not know the distributions in real life problems. (uniform or normal?)
+How is the simulation applied in such situations? How to decide on distribution of uncertain inputs?
+
+2) Each time we run the simulation, we got a result that very close to mean number but different values.
+Does it mean that we can not give exact answers to questions?
+
+3) If we can not reach analytic solver platform full add-in, maybe we can also use generate random numbers functions like RAND and NORM.INV in excel solution.
+I tried in profit analysis problem as NORM.INV(RAND(), Mean, standard_dev). Could it also be usable?
+
+4) In Airline Revenue Management problem, first we simulate also we optimize the number of first class row.
